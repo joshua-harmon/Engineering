@@ -153,8 +153,6 @@
    <ul class="sites">
     <li><a href="https://www.youtube.com/watch?v=v5WDDZqhn2s">ramUpgrd</a></li>
     <li><a href="https://www.youtube.com/watch?v=rHP-OPXK2ig">ramUp1</a></li>    
-  </ul>
- </li>  
  </ul>
 </li>
 </ul>
